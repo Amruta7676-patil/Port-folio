@@ -106,3 +106,6 @@ Contributions, issues, and feature requests are welcome. Feel free to fork the r
 ## 📄 License
 
 This project is licensed under the MIT License. Feel free to use and modify it for your own portfolio.
+
+## Author
+Amrutha Malipatil
